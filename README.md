@@ -1,6 +1,9 @@
-Title
-===
 Mini Option Pricer
+===
+
+A desktop application built with PyQt. Demonstrated to price American options, Asian options, and Basket options with Binomial method and Monte-Carlo simulation. Also finding implied volatility of European options with Newton-Raphson method.
+
+Let's challenge how less codes you can write than mine to code up the Binomial method. My implementation is highly vectorized. I have borrowed the ideas from the deep learning frameworks to process the lattice layers forward and then backward. It has also proofed to be the most robust and fastest execution in the class demo.
 
 List of Files
 ===
