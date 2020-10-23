@@ -23,10 +23,10 @@ List of Files
 Instructions
 ===
 - Install the following packages
-	1.	python (3.6.2)
-	2. pyqt (5.6.0)
-	3. numpy (1.12.1)
-	4. scipy (0.19.0)
+	- python (3.6.2)
+	- pyqt (5.6.0)
+	- numpy (1.12.1)
+	- scipy (0.19.0)
 
 - Type `python main.py` to start
 
