@@ -1,4 +1,4 @@
-Mini Option Pricer
+Mini Options Pricer
 ===
 
 A desktop application built with PyQt. Demonstrated to price American options, Asian options, and Basket options with Binomial method and Monte-Carlo simulation. Also finding implied volatility of European options with Newton-Raphson method.
